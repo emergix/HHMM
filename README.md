@@ -2,7 +2,7 @@
 
 This repository presents a theoretical framework for learning transitions in **Hierarchical Hidden Markov Models (HHMMs)** using **probabilistic graphical models** and **tensor-based inference**. The approach builds upon classical EM algorithms and introduces a recursive, modular, and scalable methodology for learning latent variable structures.
 
-📄 **Read the paper**: [LearningTransition.docx](./Docs/LearningTransition.pdf)
+📄 **Read the paper**: [LearningTransition.pdf (francais)](./Docs/LearningTransition.pdf)
 
 ---
 

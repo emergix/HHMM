@@ -5,6 +5,7 @@ This repository presents a theoretical framework for learning transitions in **H
 📄 **Read the paper**: [LearningTransition.pdf (francais)](./Docs/LearningTransition.pdf)
 
 📄 **Read the paper**: [LearningTransition.pdf (Conclusion : English)](./Docs/LearningTransition_EN.pdf)
+
 ---
 
 ## 📘 Overview

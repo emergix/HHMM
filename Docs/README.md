@@ -4,6 +4,8 @@
 
 ---
 
+📄 **Read the paper**: [LearningTransition.pdf (Conclusion : English)](./Docs/LearningTransition_EN.pdf)
+
 ## Introduction
 
 Ten years ago, Hierarchical Hidden Markov Models (HHMMs) were the state of the art for learning abstract structure in time series. Today, although neural methods like Transformers dominate the landscape, HHMMs offer valuable lessons that can—and should—be revisited. In this post, we reflect on what HHMMs taught us, and how their ideas are resurfacing in modern architectures for contextual time series modeling.
